@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Időbeosztás</string>
+    <string name="splash_text">Indítás...</string>
+    <string name="add_item">Hozzáadás</string>
+    <string name="activity_title_hint">Tevékenység címe</string>
+    <string name="pick_date">Dátum kiválasztása</string>
+    <string name="pick_time">Idő kiválasztása</string>
+    <string name="cancel">Mégse</string>
+    <string name="add">Hozzáad</string>
+    <string name="error_fill_all">Töltsd ki az összes mezőt!</string>
+    <string name="language_switch">Nyelv váltása</string>
+</resources>

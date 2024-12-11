@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scheduler</string>
+    <string name="splash_text">Loading...</string>
+    <string name="add_item">Add</string>
+    <string name="activity_title_hint">Activity title</string>
+    <string name="pick_date">Pick a date</string>
+    <string name="pick_time">Pick a time</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="error_fill_all">Please fill all fields!</string>
+    <string name="language_switch">Switch language</string>
+</resources>
